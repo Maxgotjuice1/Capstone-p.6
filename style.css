@@ -8,9 +8,14 @@
 
   h1{
     color:gold;
+    text-decoration: solid;
   }
 
   body{
 
     background-color:black;
+    color:gold;
+    text-align: center;
   }
+
+ 
